@@ -23,3 +23,4 @@ This project is a responsive website template built using HTML, CSS, and JavaScr
 - Swiper.js library was used for implementing the sliders.
 - Google Fonts provided the font used in the project.
 
+#Demo: https://rajesh2132.github.io/Events-Planner-Website/
